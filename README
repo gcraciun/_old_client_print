@@ -1,0 +1,4 @@
+29.10.2009
+
+It prints all clients name, mac, ip in the db.
+Could have been used to generate dhcpd.conf.
